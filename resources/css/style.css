@@ -250,21 +250,21 @@ header .mobile {
 }
 
 .feature .feature1{
-  background-image: url('../images/feature-1.jpeg');
+  background-image: url('../images/Bank-Cormorant-WM.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50px;
 }
 
 .feature .feature2{
-  background-image: url('../images/feature-2.jpeg');
+  background-image: url('../images/feature-3.png');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50px;
 }
 
 .feature .feature3{
-  background-image: url('../images/feature-3.png');
+  background-image: url('../images/feature-1.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50px;
