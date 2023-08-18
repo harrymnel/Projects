@@ -254,14 +254,14 @@ header .mobile {
 }
 
 .feature .feature1{
-  background-image: url('../images/feature-1.png');
+  background-image: url('../images/feature-1.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50px;
 }
 
 .feature .feature2{
-  background-image: url('../images/feature-2.png');
+  background-image: url('../images/feature-2.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50px;
