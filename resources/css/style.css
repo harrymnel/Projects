@@ -250,7 +250,7 @@ header .mobile {
 }
 
 .feature .feature1{
-  background-image: url('../images/Bank-Cormorant-WM.jpeg');
+  background-image: url('../images/thesis.png');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50px;
@@ -336,13 +336,14 @@ header .mobile {
 #picture-section .content {
   padding: 0 .625rem;
   margin-bottom: 5rem;
-  line-height: 1.4;
+  
 }
 
 #picture-section .content h2 {
   font-size: 2.25rem;
   font-weight: bold;
   color: white;
+  line-height: 1.4;
 }
 
 #picture-section .content h3 {
